@@ -1,0 +1,9 @@
+{
+    "zenMode.hideActivityBar": true ,
+    "zenMode.hideStatusBar": true,
+    "debug.hideLauncherWhileDebugging": false,
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.activityBar.location": "default",
+    "editor.scrollbar.scrollByPage": false,
+    "html.format.indentHandlebars": false
+}
