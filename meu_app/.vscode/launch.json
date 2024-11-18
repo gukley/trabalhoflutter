@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "meu_app",
+            "request": "launch",
+            "type": "dart",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Flutter Web",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "chrome", // para rodar no navegador
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
